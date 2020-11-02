@@ -14,13 +14,17 @@ Here you will find the documentation on the following languages:
 
 ## About
 
-TKNutshell V 0.00.0005
+TKNutshell V 0.00.0006
 
 This Documentation was idealized by Inky1003
 
 Special thanks to:
 
 - Python documentation and tkdocs.com - reference and main help for creating the documentation
+
+## Changelog
+
+[Click here to see the changelog](changelog.md)
 
 ## License
 

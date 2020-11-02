@@ -28,7 +28,7 @@ No exemplo foi utilizado o cursor multiplataforma arrow.
 
 Cursores que funcionam em todas as plataformas.
 
-Caso queira ver um por um, veja o arquivo [allcursors.py](.\cursores\allcursors.py)
+Caso queira ver um por um, veja o arquivo [alltkcursors.py](https://github.com/Inky1003/tknutshell-examples/blob/main/cursors/alltkcursors.py)
 
 ```
 X_cursor
