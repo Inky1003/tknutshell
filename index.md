@@ -8,23 +8,30 @@ Here you will find the documentation on the following languages:
 
 ## Docs Languages
 
-[🇧🇷 Brazilian Portuguese (WIP)](pt_BR/) 
+[🇧🇷 Português Brasileiro (WIP)](pt_BR/) 
 
 🇺🇸 American English (SOON)
 
 ## About
 
-TKNutshell V 0.00.0006
-
 This Documentation was idealized by Inky1003
 
 Special thanks to:
 
+- Leo Araripe - Translation to American English (WIP)
 - Python documentation and tkdocs.com - reference and main help for creating the documentation
 
 ## Changelog
 
-[Click here to see the changelog](changelog.md)
+First pick one language, and then click It's changelog.
+
+## Translating
+
+If you want to Translate, please, consider translating from the English version.
+
+Note that I firstly update the Brazilian Portuguese version, and then the translators help translating the rest.
+
+Make a pull request to this file with your new Language and your language files.
 
 ## License
 

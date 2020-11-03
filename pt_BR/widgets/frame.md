@@ -24,11 +24,11 @@ myFrame.pack()
 
 `cursor` - O cursor do mouse específico ao passar o mouse em cima do Frame. Veja em Cursores alguns cursores disponíveis.
 
-`highlightbackground` - Especifica a cor do retângulo que contorna o Frame quando não há foco do usuário nele.
+`highlightbackground` - Especifica a cor do retângulo que contorna o Frame quando não há foco do usuário nele. Veja [Cores](../valoresDePropriedades/colors.md) para opções.
 
-`highlightcolor` - Especifica a cor do retângulo que contorna o Frame quando há foco do usuário nele.
+`highlightcolor` - Especifica a cor do retângulo que contorna o Frame quando há foco do usuário nele. Veja [Cores](../valoresDePropriedades/colors.md) para opções.
 
-`highlightthickness` - Tamanho do retângulo que contorna o Frame de acordo com o foco do usuário.
+`highlightthickness` - Tamanho do retângulo que contorna o Frame de acordo com o foco do usuário. Veja [Cores](../valoresDePropriedades/colors.md) para opções.
 
 `padx` - Indica quanto espaço extra o Widget deve ter na direção X. Se o elemento  pai (por exemplo outro Frame ou a própria janela em si) pode oferecer tal espaçamento, o Widget apresentará um espaço horizontal a mais dentro de si mesmo e dentro desse espaço o conteúdo.
 
@@ -40,7 +40,7 @@ myFrame.pack()
 
 #### Propriedades específicas do Widget
 
-`background` - Cor de Background do Frame. Pode não ser definida, sendo uma string vazia.
+`background` - Cor de Background do Frame. Pode não ser definida, sendo uma string vazia. Veja [Cores](../valoresDePropriedades/colors.md) para opções.
 
 `class` - Esta classe não deve ser mudada, e diz respeito ao que o Widget é.
 

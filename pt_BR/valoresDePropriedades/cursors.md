@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # Cursors (Cursores de Mouse)
 
 ## Introdução

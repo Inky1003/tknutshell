@@ -4,6 +4,14 @@
 
 ​	Esta documentação foi feita com o objetivo de ser objetiva, então não vou enrolar com introduções ou informações redundantes.
 
+## Versão:
+
+Você está usando a seguinte versão dessa língua:
+
+V 0.00.0007
+
+[Changelog](changelog.md)
+
 ## Introdução
 
 ​	E quando eu digo isso, eu digo que não vou falar muito numa introdução.
@@ -14,8 +22,12 @@
 
 ​	Bom, chega, introdução terminada. Bora para a parte interessante:
 
-#### [1. Coisas imporantes a se considerar e primeiro exemplo](1.md)
+### Guia
 
-#### [2. Widgets do Tkinter](2.md)
+#### 	[1. Coisas imporantes a se considerar e primeiro exemplo](1.md)
 
-​	[Referência completa do widget Frame](widgets/frame.md)
+#### 	[2. Widgets do Tkinter (Tk)](2.md)
+
+### Referência de Widgets Tk
+
+​	1. [Frame](widgets/frame.md)
