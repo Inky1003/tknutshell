@@ -30,4 +30,5 @@ V 0.00.0007
 
 ### Referência de Widgets Tk
 
-​	1. [Frame](widgets/frame.md)
+	1. [Frame](widgets/frame.md)
+ 	2. [Label](widgets/label.md)
